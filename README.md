@@ -5,4 +5,14 @@ You can find the blog post here:
 https://medium.com/@kazi200/sparkify-an-exercise-in-predicting-churn-in-music-streaming-users-de3253735c08
 
 
-This is where the readme will go
+## Libraries used
+ - 
+ 
+## Project Motivation
+
+## File and description
+
+
+## Results 
+
+## Acknowledgements
